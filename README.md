@@ -14,13 +14,9 @@
 
 - 💬 Ask me about **Java, C, Arduino, web development, and dashboard design**
 
-- 📫 How to reach me **tharindusamarakoon.dev@gmail.com**
+- 📫 How to reach me **tharindupiyumal281@gmail.com**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/TharinduSamarakoon)
-
-- 📝 I regularly write articles on [Blog - Coming Soon](#)
-
-- 📄 Know about my experiences [Resume - Coming Soon](#)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Piyumal78)
 
 - ⚡ Fun fact **I think I can fix any bug with enough snacks 🍪**
 
@@ -43,45 +39,24 @@ Flutter (Learning) · Android (Basics)
 ### 💾 Databases
 MySQL
 
-### 🔍 Data Visualization
+### 🔍 Data Visualisation
 Chart.js · Custom Dashboards
 
 ### ☁️ DevOps & Tools
 Git · GitHub · Postman · VS Code · Arduino
 
-### 🧠 AI/ML (Basics)
-
-
 ### 🔌 Hardware & IoT
 Arduino · Sensors · Op-amp Circuits · IoT Modules
 
-### 📐 Design & UI Tools
-Figma 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharinduSamarakoon&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduSamarakoon&theme=radical" />
-</p>
-
----
 
 ## 🌍 Socials
 
-- [GitHub](https://github.com/TharinduSamarakoon)
-- [YouTube - Amazing Days by Tharindu](#)
-- [LinkedIn - Coming Soon](#)
-- [Instagram - Coming Soon](#)
+- [GitHub](https://github.com/Piyumal78)
+- 
+- [LinkedIn - Coming Soon](www.linkedin.com/in/tharindu-piyumal-80a451267)
+- [Instagram - Coming Soon](https://www.instagram.com/piyumal_7/)
 
 ---
-
-## ☕ Support Me
-
-If you like what I do, consider buying me a coffee!  
-[Buy Me a Coffee - Coming Soon](#)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TharinduSamarakoon&label=Profile+Visits&color=blue" alt="visitors"/>
