@@ -33,9 +33,6 @@ React · Bootstrap · Tailwind CSS
 ### 🖥️ Backend Development
 Node.js · Express.js
 
-### 📱 Mobile Development
-Flutter (Learning) · Android (Basics)
-
 ### 💾 Databases
 MySQL
 
@@ -45,14 +42,10 @@ Chart.js · Custom Dashboards
 ### ☁️ DevOps & Tools
 Git · GitHub · Postman · VS Code · Arduino
 
-### 🔌 Hardware & IoT
-Arduino · Sensors · Op-amp Circuits · IoT Modules
-
 
 ## 🌍 Socials
 
 - [GitHub](https://github.com/Piyumal78)
-- 
 - [LinkedIn - Coming Soon](www.linkedin.com/in/tharindu-piyumal-80a451267)
 - [Instagram - Coming Soon](https://www.instagram.com/piyumal_7/)
 
