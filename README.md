@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=IoT+Developer+%7C+Project+Coordinator;Electronics+%2B+CS+Student;Web+%2F+UI+Designer;Arduino+%2F+Sensor+Systems+Builder;Always+exploring+tech+%26+ideas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=IoT+Developer+%7C+Project+Coordinator;Electronics+%2B+CS+Student;Web+%2F+Designer;Arduino+%2F;Always+exploring+tech+%26+ideas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,10 +59,8 @@ I'm passionate about merging electronics with intelligent software systems. My c
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Smart Fish Tank Oxygen Control** | Monitors & optimizes oxygen for aquatic life | Arduino, Sensors, Logic |
 | **Room Energy & Environment Monitor** | Analyzes room power, light & heat usage | Arduino, Dashboard UI |
-| **Train Seat Booking System** | Java-based reservation & seat logic | Java OOP |
-| **Police Database System** | Data handling system built in C | C Programming |
+
 
 ---
 
