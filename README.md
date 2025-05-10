@@ -4,8 +4,8 @@
   <p><em>Electronics & Computer Science Student ⚡ | Innovator | Project Leader | Tech Enthusiast</em></p>
   <p>Bridging hardware and software to create smart, efficient systems 🌐🔧</p>
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharindu-samarakoon)
-  [![GitHub followers](https://img.shields.io/github/followers/tharindu-samarakoon?label=Follow&style=social)](https://github.com/tharindu-samarakoon)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/tharindu-piyumal-80a451267)
+  [![GitHub followers](https://img.shields.io/github/followers/tharindu-samarakoon?label=Follow&style=social)](https://github.com/Piyumal78)
 </div>
 
 <p align="center">
@@ -51,7 +51,6 @@ I'm passionate about merging electronics with intelligent software systems. My c
 **Design & Creativity**
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Video Editing](https://img.shields.io/badge/-Video_Design-FF9A00?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 ---
@@ -84,7 +83,6 @@ I'm passionate about merging electronics with intelligent software systems. My c
 - 🏅 Participated in university exhibitions & tech showcases
 - 👨‍💻 Active contributor to multiple team projects
 - 🗣 Delivered presentations on Agile, IoT systems, and design
-- 🎓 Completed training in computer hardware and networking
 
 ---
 
