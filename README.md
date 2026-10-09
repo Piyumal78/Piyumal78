@@ -54,7 +54,18 @@ I'm an Electronics & Computer Science undergraduate at the **University of Kelan
 Automatically selected from my **public, non-fork** repositories. Add topics and a description to each repository for more accurate details.
 
 <!-- AUTO-PROJECTS:START -->
-*Projects will appear after the first successful workflow run.*
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [ELMS](https://github.com/Piyumal78/ELMS) | Explore the repository | JavaScript, Java, CSS, HTML |
+| [Intelligent-air-system-demo](https://github.com/Piyumal78/Intelligent-air-system-demo) | Explore the repository | JavaScript, CSS, Python, HTML |
+| [200201701680](https://github.com/Piyumal78/200201701680) | Explore the repository | See repository |
+| [task-platform](https://github.com/Piyumal78/task-platform) | Explore the repository | PHP, Blade, TypeScript, CSS, JavaScript, Dockerfile |
+| [E-commerce](https://github.com/Piyumal78/E-commerce) | Explore the repository | Java, JavaScript, HTML, CSS |
+| [Intelligent-air-system](https://github.com/Piyumal78/Intelligent-air-system) | : 🚀 SmartAir Purifier – An IoT-powered air purification system integrating HEPA filters, activated carbon, and UV-C lamps. Features real-time monitoring, data analytics, and mobile control. Designed for cleaner air, energy efficiency, and health-focused innovation. 🌍✨ | See repository |
+| [AI-Skin-Disease-Detection](https://github.com/Piyumal78/AI-Skin-Disease-Detection) | Explore the repository | JavaScript, CSS, Python, HTML |
+| [library_management](https://github.com/Piyumal78/library_management) | Explore the repository | Java, TypeScript, CSS, JavaScript, HTML |
+
+[View all public repositories](https://github.com/Piyumal78?tab=repositories)
 <!-- AUTO-PROJECTS:END -->
 
 ## 🧠 Technologies Detected from Repositories
@@ -62,13 +73,31 @@ Automatically selected from my **public, non-fork** repositories. Add topics and
 Languages come from GitHub language statistics; frameworks and platforms come from GitHub repository topics. This is **not** a complete inventory of personal skills.
 
 <!-- AUTO-SKILLS:START -->
-*Detected technologies will appear after the first successful workflow run.*
+![HTML](https://img.shields.io/badge/HTML-252B3A?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-252B3A?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-252B3A?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-252B3A?style=for-the-badge)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-252B3A?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-252B3A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-252B3A?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-252B3A?style=for-the-badge)
+![Blade](https://img.shields.io/badge/Blade-252B3A?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-252B3A?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-252B3A?style=for-the-badge)
+![Hack](https://img.shields.io/badge/Hack-252B3A?style=for-the-badge)
+![TSQL](https://img.shields.io/badge/TSQL-252B3A?style=for-the-badge)
 <!-- AUTO-SKILLS:END -->
 
 ## 📈 Public Repository Overview
 
 <!-- AUTO-ACTIVITY:START -->
-*Repository overview will appear after the first successful workflow run.*
+| Metric | Public repository snapshot |
+| --- | ---: |
+| Active non-fork repositories scanned | 17 |
+| Stars across scanned repositories | 0 |
+| Forks across scanned repositories | 1 |
+| Distinct detected technologies | 13 |
+| Frequently used technologies | HTML, CSS, JavaScript, Java, Python |
 <!-- AUTO-ACTIVITY:END -->
 
 ## 🌟 Selected Experience
