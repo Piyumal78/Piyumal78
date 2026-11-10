@@ -97,7 +97,7 @@ Languages come from GitHub language statistics; frameworks and platforms come fr
 | Stars across scanned repositories | 0 |
 | Forks across scanned repositories | 1 |
 | Distinct detected technologies | 13 |
-| Frequently used technologies | HTML, JavaScript, CSS, Java, Python |
+| Frequently used technologies | HTML, CSS, JavaScript, Java, Python |
 <!-- AUTO-ACTIVITY:END -->
 
 ## 🌟 Selected Experience
